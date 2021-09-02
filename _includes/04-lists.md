@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+### Some Places to eat in town
+- Hong noodles
+- Riverbend
+- Dos Amigos
